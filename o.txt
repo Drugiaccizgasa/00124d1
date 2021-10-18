@@ -1,0 +1,5 @@
+#define BUFSIZ 512
+#define _NFILE _NSTREAM_
+#define _NSTREAM_ 512
+#define _IOB_ENTRIES 20
+#define EOF (-1)
